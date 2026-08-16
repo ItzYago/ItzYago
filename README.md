@@ -100,9 +100,6 @@ Spring Boot...
 # 🚀 Projects
 
 <p>
-  <a href="https://github.com/ItzYago/Web-Intelligence">
-    <img src="https://img.shields.io/badge/🌐%20Web%20Intelligence-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
 
   <a href="https://github.com/ItzYago/Pulse">
     <img src="https://img.shields.io/badge/❤️%20Pulse-181717?style=for-the-badge&logo=github&logoColor=white">
@@ -126,7 +123,7 @@ Spring Boot...
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,spring,git,github,linux,mysql,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,java,spring,git,github,linux,mysql,vscode,windows,nmap"/>
 
 </div>
 
