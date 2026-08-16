@@ -123,7 +123,7 @@ Spring Boot...
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,spring,git,github,linux,mysql,vscode,windows,nmap"/>
+<img src="https://skillicons.dev/icons?i=python,java,spring,git,github,linux,mysql,vscode,windows,html,css,kalilinux"/>
 
 </div>
 
