@@ -45,7 +45,7 @@ I'm a **Developer & Cybersecurity enthusiast** focused on **Red Team, Pentesting
 
 ## 📚 Currently Learning
 
-<img src="https://skillicons.dev/icons?i=javascript,php,typescript,kubernetes,linux,windows,mysql,postgresql,docker" />
+<img src="https://skillicons.dev/icons?i=javascript,php,typescript,kubernetes,linux,windows,mysql,postgresql,docker,angular" />
 
 <br><br>
 
