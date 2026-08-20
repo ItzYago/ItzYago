@@ -1,159 +1,60 @@
-# 💻 boot.log
-
-```console
-BIOS Version 4.2.0
-
-Checking RAM....................................OK
-
-Checking Motivation.............................OK
-
-Checking Coffee..................................OK
-
-Loading Python.................................DONE
-
-Loading Java...................................DONE
-
-Loading Git....................................DONE
-
-Loading Linux..................................DONE
-
-Loading Brain..................................DONE
-
-Starting Developer Session...
-
-Developer Environment Ready.
-```
-
----
-
-# 🖥 whoami
-
-```yaml
-Name:
-  Yago
-
-Role:
-  Backend Developer
-
-Location:
-  Brazil
-
-Current Focus:
-  - Java
-  - Python
-  - Cybersecurity
-
-Favorite Command:
-  git commit
-
-
-Strength:
-  Curiosity
-```
-
----
-
-# 📟 neofetch
-
-```text
-                  .--.
-                 |o_o |
-                 |:_/ |
-                //   \ \
-               (|     | )
-              /'\_   _/`\
-              \___)=(___/
-
-OS: YagoOS 4.0 LTS
-
-Host: GitHub
-
-Kernel: Java 21
-
-Shell: Python
-
-Editor: VS Code
-
-Uptime: Every day
-
-Packages Installed:
-
-✔ Java
-
-✔ Python
-
-✔ Git
-
-✔ Linux
-
-JavaScript...
-
-Downloading...
-
-Spring Boot...
-```
-
----
-
 <div align="center">
+  
+## 👋 About Me
 
-# 🚀 Projects
+I'm a **Developer & Cybersecurity enthusiast** focused on **Red Team, Pentesting, Networking, Infrastructure and secure software development**. I work with technologies such as **Python, Java, Linux, Git, Docker and security tools**, while continuously expanding my knowledge in **ethical hacking, cloud, DevOps and cybersecurity**.
 
-<p>
+**I'm currently in a learning phase, constantly improving my skills, exploring new technologies, and gaining practical experience through projects and hands-on practice.**
 
-  <a href="https://github.com/ItzYago/Pulse">
-    <img src="https://img.shields.io/badge/❤️%20Pulse-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
 
-  <a href="https://github.com/ItzYago/java-bank">
-    <img src="https://img.shields.io/badge/☕%20Java%20Bank-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-
-  <a href="https://github.com/ItzYago/Orion.AI">
-    <img src="https://img.shields.io/badge/🤖%20Orion.AI-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</p>
+<hr>
 </div>
 
-
----
-
-
-# ⚙ skills
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,spring,git,github,linux,mysql,vscode,windows,html,css,kali"/>
+# ⚙️ Skills
 
-</div>
+## 💻 Development
 
----
+<img src="https://skillicons.dev/icons?i=python,java,spring,javascript,php,html,css,typescript,angular" />
 
-# 📈 github
+<br><br>
 
-<p align="center">
+## 🧰 Infrastructure & DevOps
 
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes" />
 
-<p align="center">
+<br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ItzYago&theme=tokyonight&hide_border=true"/>
+## 🗄️ Databases
 
-</p>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
 
+<br><br>
 
----
+## 🐧 Operating Systems
 
+<img src="https://skillicons.dev/icons?i=linux,windows,kali" />
+
+<br><br>
+## 🔒 Cybersecurity
+<img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+
+<br><br>
+
+## 📚 Currently Learning
+
+<img src="https://skillicons.dev/icons?i=javascript,php,typescript,kubernetes,linux,windows,mysql,postgresql,docker" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+
+<hr>
 <div align="center">
 
-```console
-Saving session...
-
-No data loss detected.
-
-Goodbye.
-
-See you in the next commit.
-```
+<img src="https://usagif.com/wp-content/uploads/2022/fzk5d/7-chain-pacman-ghosts.gif" width="100%">
 
 </div>
