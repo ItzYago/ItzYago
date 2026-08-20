@@ -2,7 +2,7 @@
   
 ## 👋 About Me
 
-I'm a **Developer & Cybersecurity enthusiast** focused on **Red Team, Pentesting, Networking, Infrastructure and secure software development**. I work with technologies such as **Python, Java, Linux, Git, Docker and security tools**, while continuously expanding my knowledge in **ethical hacking, cloud, DevOps and cybersecurity**.
+I'm a **Developer & Cybersecurity enthusiast** focused on **Red Team, Pentesting, Networking, Backend, Infrastructure and secure software development**. I work with technologies such as **Python, Java, Linux, Git, Docker and security tools**, while continuously expanding my knowledge in **ethical hacking, cloud, DevOps and cybersecurity**.
 
 **I'm currently in a learning phase, constantly improving my skills, exploring new technologies, and gaining practical experience through projects and hands-on practice.**
 
