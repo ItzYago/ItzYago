@@ -1,13 +1,22 @@
 <div align="center">
+
+
+<div align="center">
+  <img src="https://github-all-stats.vercel.app/api?username=ItzYago&v=1" alt="My GitHub Stats" />
+</div>
+
+  <hr>
   
 ## 👋 About Me
 
-I'm a **Developer & Cybersecurity enthusiast** focused on **Red Team, Pentesting, Networking, Backend, Infrastructure and secure software development**. I work with technologies such as **Python, Java, Linux, Git, Docker and security tools**, while continuously expanding my knowledge in **ethical hacking, cloud, DevOps and cybersecurity**.
+I'm a **Developer & Cybersecurity enthusiast** focused on **Red Team, Pentesting, Networking, Backend, Infrastructure and secure software development**. I work with technologies such as **Python, Golang, Linux, Git, Docker and security tools**, while continuously expanding my knowledge in **ethical hacking, cloud, DevOps and cybersecurity**.
 
 **I'm currently in a learning phase, constantly improving my skills, exploring new technologies, and gaining practical experience through projects and hands-on practice.**
 
 
 <hr>
+
+
 </div>
 
 <div align="center">
@@ -16,7 +25,7 @@ I'm a **Developer & Cybersecurity enthusiast** focused on **Red Team, Pentesting
 
 ## 💻 Development
 
-<img src="https://skillicons.dev/icons?i=python,java,spring,javascript,php,html,css,typescript,angular" />
+<img src="https://skillicons.dev/icons?i=python,golang,javascript,php,typescript," />
 
 <br><br>
 
@@ -45,7 +54,7 @@ I'm a **Developer & Cybersecurity enthusiast** focused on **Red Team, Pentesting
 
 ## 📚 Currently Learning
 
-<img src="https://skillicons.dev/icons?i=javascript,php,typescript,kubernetes,linux,windows,mysql,postgresql,docker,angular" />
+<img src="https://skillicons.dev/icons?i=javascript,php,typescript,kubernetes,linux,windows,mysql,postgresql,docker,golang" />
 
 <br><br>
 
