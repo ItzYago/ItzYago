@@ -1,11 +1,10 @@
 <div align="center">
 
 
-<div align="center">
-  <img src="https://github-all-stats.vercel.app/api?username=ItzYago&v=1" alt="My GitHub Stats" />
-</div>
+  [![GitHub Stats - Dark](https://gh-readme-profile.vercel.app/api?username=ItzYago&theme=dark#gh-dark-mode-only)](https://github.com/FajarKim/github-readme-profile#gh-dark-mode-only)
 
-  <hr>
+
+<hr>
   
 ## 👋 About Me
 
@@ -65,5 +64,6 @@ I'm a **Developer & Cybersecurity enthusiast** focused on **Red Team, Pentesting
 <div align="center">
 
 <img src="https://usagif.com/wp-content/uploads/2022/fzk5d/7-chain-pacman-ghosts.gif" width="100%">
+
 
 </div>
