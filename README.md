@@ -42,7 +42,7 @@ I'm a **Developer & Cybersecurity enthusiast** focused on **Red Team, Pentesting
 
 ## 🐧 Operating Systems
 
-<img src="https://skillicons.dev/icons?i=linux,windows,kali" />
+<img src="https://skillicons.dev/icons?i=linux,windows,ubuntu" />
 
 <br><br>
 ## 🔒 Cybersecurity
